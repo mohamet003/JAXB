@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><films>
+    <film sortie="2005" visa="114089">
+        <nom>king kong</nom>
+        <nationalite>americain</nationalite>
+        <realisateur>Peter Jackson</realisateur>
+        <genre>aventure</genre>
+        <exploitation>
+            <sortie_en_salle>mercredi 14 decembre 2005</sortie_en_salle>
+            <nbr_entrees>2838759</nbr_entrees>
+            <nbr_salles>547</nbr_salles>
+            <pays>
+                <nom>Allemagne</nom>
+                <nom>Angleterre</nom>
+            </pays>
+        </exploitation>
+        <acteurs>
+            <acteur>Peter Jackson</acteur>
+            <acteur>Naomi Watts</acteur>
+            <acteur>Jack Black</acteur>
+            <acteur>Adrien Brody</acteur>
+        </acteurs>
+        <duree>
+            <heures>3</heures>
+            <minutes>8</minutes>
+        </duree>
+        <scenario>
+            NewYork, 1993. Artiste de music hall à la rue, Ann Darrow rencontre l'audacieux explorateur/realisateur Carl Denham. Ce dernier rêve de terminer son film inacheve, mais nourrit surtout la folle ambition d'être le premier à decouvrir le secret de la mysterieuse Skull Island. Il va entraîner Ann dans sa perilleuse aventure...
+        </scenario>
+    </film>
+    <film sortie="2004" visa="114090">
+        <nom>Massacre à la tronconneuse</nom>
+        <nationalite>français</nationalite>
+        <realisateur>Michel Idalgo</realisateur>
+        <genre>documentaire</genre>
+        <exploitation>
+            <sortie_en_salle>jeudi 3 mars 2004</sortie_en_salle>
+            <nbr_entrees>283862</nbr_entrees>
+            <nbr_salles>134</nbr_salles>
+            <pays>
+                <nom>Italie</nom>
+                <nom>Espagne</nom>
+                <nom>Allemagne</nom>
+            </pays>
+        </exploitation>
+        <acteurs>
+            <acteur>Roberto Iganco</acteur>
+            <acteur>Jack Black</acteur>
+            <acteur>Paolo Rossi</acteur>
+        </acteurs>
+        <duree>
+            <heures>2</heures>
+            <minutes>2</minutes>
+        </duree>
+        <scenario>
+            Rio, 1956. Paoli Vinci, jeune ouvrier artisan vitrier, arpente les rues de Rio à la recherche de clients. Il rencontre Suzanne la vendeuse de glace du quartier qui vient de se faire devaliser par Jojo le cireur de chaussures...
+        </scenario>
+    </film>
+    <film sortie="2006" visa="114091">
+        <nom>Pars loin et reviens tard</nom>
+        <nationalite>français</nationalite>
+        <realisateur>Jose Garcia</realisateur>
+        <genre>policier</genre>
+        <exploitation>
+            <sortie_en_salle>mercredi 6 fevrier 2006</sortie_en_salle>
+            <nbr_entrees>1245986</nbr_entrees>
+            <nbr_salles>456</nbr_salles>
+            <pays>
+                <nom>Angleterre</nom>
+                <nom>Espagne</nom>
+                <nom>Belgique</nom>
+            </pays>
+        </exploitation>
+        <acteurs>
+            <acteur>Jose Garcia</acteur>
+            <acteur>Nicolas Cage</acteur>
+            <acteur>Noemie Campbell</acteur>
+            <acteur>Nathalie Baye</acteur>
+        </acteurs>
+        <duree>
+            <heures>1</heures>
+            <minutes>45</minutes>
+        </duree>
+        <scenario>
+            L'inspecteur Rinaldo vit mal sa separation avec Cindy Lu et broie du noir au commissariat. Son adjoint Pascal Fenet joue les intermediaires et s'attire les foudres de l'inspecteur...
+        </scenario>
+    </film>
+    <film visa="87654">
+        <nom>LITTLE SENEGAL</nom>
+        <nationalite>SENEGALAISE</nationalite>
+        <realisateur>Rachid Bouchareb</realisateur>
+        <genre>aventure</genre>
+        <exploitation>
+            <sortie_en_salle>1392</sortie_en_salle>
+            <nbr_entrees>892</nbr_entrees>
+            <nbr_salles>89</nbr_salles>
+            <pays>
+                <nom>SENEGAL</nom>
+                <nom>MALI</nom>
+                <nom>GAMBIA</nom>
+            </pays>
+        </exploitation>
+        <acteurs>
+            <acteur>Sotigui Kouyate</acteur>
+            <acteur>Sharon Hope</acteur>
+            <acteur>Roschdy Zem</acteur>
+        </acteurs>
+        <duree>
+            <heures>1</heures>
+            <minutes>38</minutes>
+        </duree>
+        <scenario>Passionné par l'histoire de son peuple, Alloune, un vieux guide du musée africain "La Maison des Esclaves" à Gorée, part en pèlerinage pour retrouver les descendants de ses ancêtres aux Etats-Unis. Cet émouvant voyage va le mener des côtes de Caroline du Sud au quartier de Harlem où vit la communauté africaine, Little Senegal.</scenario>
+    </film>
+</films>

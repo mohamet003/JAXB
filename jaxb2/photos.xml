@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<photos>
+    <photo qualite="4">
+        <nom>Ma photo 1</nom>
+        <date>2020-04-27+02:00</date>
+    </photo>
+    <photo qualite="2">
+        <nom>Ma photo 1</nom>
+        <date>2020-04-27+02:00</date>
+    </photo>
+</photos>
